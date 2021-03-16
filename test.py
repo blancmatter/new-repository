@@ -1,3 +1,4 @@
 import time
 
-print(time.time.now())
+time.sleep(30)
+print("It's 30 seconds later")
